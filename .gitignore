@@ -7,3 +7,5 @@ gen
 *.csv
 .DS_Store
 Data
+.ipynb_checkpoints
+__pycache__
