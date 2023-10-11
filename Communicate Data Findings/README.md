@@ -65,3 +65,7 @@ In this section, I will summarize the findings and provide conclusions based on 
 > - The construction and the retail trade sectors have the highest number of male employees.
 > - The human health and the retail trade sectors have the highest number of female employees.
 > - The retail trade sector is the second-highest sector for both male and female employees
+
+## Medium Blog Post
+
+The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@alsubaie_os/unveiling-the-workforce-analysis-of-saudi-arabias-employment-landscape-in-2022-03815b08b009)
