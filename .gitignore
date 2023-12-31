@@ -9,3 +9,7 @@ gen
 Data
 .ipynb_checkpoints
 __pycache__
+*.pkl
+*.cfg
+*.pptx
+*.docx
